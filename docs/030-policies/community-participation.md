@@ -1,17 +1,18 @@
 ---
-status: Work in progress, copied from the combined prodev-community-participation file before it was split into two topics
+status: Work in progress, copied from the combined prodev-community-participation file before it was split into two topics (CivicActions note)
 updated: May 9, 2017, copied on 11/28/17.
+Bloomworks updated: March 17, 2021
 ---
 
 # Professional Development and Community Participation
 
 ## Background - the Why
 
-CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
+Bloom Works set a goal of developing individual Professional Development plans for all team members. We also set a goal of strengthening Community Participation in 2019 and leveraging the intersection of participation and Marketing.
 
 We value Professional Development and Community Participation for a number of reasons:
 
-- **Professional Development increases your skills which can result in increased revenue opportunities for CivicActions and higher salary for you**
+- **Professional Development increases your skills which can result in increased revenue opportunities for Bloom Works and higher salary for you**
 
 - **Professional Development provides career mobility for each person - increasing our feeling of safety, which leads to:**
 
@@ -25,7 +26,7 @@ We value Professional Development and Community Participation for a number of re
   - Strengthened relationships with experts that can help when we are stuck
   - Career advancement opportunities (potential new employment offers) for each of us, which increases our feeling of safety
   - Opportunities to increase the impact of the work being done by our entire industry - which helps with our mission to transform the way professional services are delivered in government
-  - Opportunities for CivicActions to popularize the idea of radical openness, which strengthens our brand
+  - Opportunities for Bloom Works to popularize the idea of radical openness, which strengthens our brand
 
 ## Logistics and Policy Information
 
@@ -35,7 +36,7 @@ The output of the first meeting will be a Professional Development and Community
 
 <!-- prettier-ignore-start -->
 
-- Each full-time team member is eligible for a yearly stipend of $1,200.
+- Each full-time team member is eligible for a yearly stipend of $2,000.
   - The stipend will be prorated for team members contracted to work less than full-time (40 hours/week).
   - New team members will have a 3-month (90 day) wait period before becoming eligible for a professional development stipend and it will be earned throughout the first year.
   - Purchases under $50 can be made without approval, as long as they support professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
@@ -44,6 +45,4 @@ The output of the first meeting will be a Professional Development and Community
 
 <!-- prettier-ignore-end -->
 
-## Communication
 
-- We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.
