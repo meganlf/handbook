@@ -1,11 +1,32 @@
-# Background / History
+As a Bloomer, it might be helpful to have some background on Bloom - how it all started, what we're trying to do here and some of our core values.
 
-CivicActions, Inc. is a professional services firm delivering agile system development lifecycle services with a focus on free & open source software (FOSS). One of the things that makes us unique is our radical openness. Our largest federal clients in 2016 were the Defense Security Cooperation Agency, Department of Education, Federal Communications Commission, and through our partner Acquia, Department of Justice and Department of Treasury. Our largest Non-Profit client was Cal Poly where we re-built the Digital Democracy Platform and their DevOps pipeline.
+#How It All Began
 
-CivicActions was founded as an LLC in 2004. Our initial focus was to provide hosted FOSS group forming network technologies to progressive NGOs. We have always, since inception, prioritized clients who have a mission and tactics that we believe in. We were an early adopter of Drupal, Openwall GNU/\*/Linux, and CiviCRM. Over the period between 2004-2012, we served over 175 orgs including the CRR (Center for Reproductive Rights), American Public Media, Amnesty International, and SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science).
+Once upon a time in 2018, after creating the digital services team for the City of Boston, Lauren started Bloom Works (originally GovBloom, which may pop up) to take what she learned to more agencies. She put together a dream team of seasoned (and brilliant!) designers, researchers, and developers who have led the redesigns of websites like VA.gov and health.gov. Check out this GovTech piece for more.
 
-From the first year of operations, CivicActions was committed to openness - not just with code but also with our design deliverables and our methodologies. This radical openness helped to define our culture. At that time, we built and open licensed our first development tools and hosting platforms (together with Openwall professional services) as well as continuous integration pipeline and began experimenting with agile development methods. Our team members have shared best practices at hundreds of conferences over the years, as well as contributed code to hundreds of FOSS communities. To this day, we believe in making the world better not just through our client deliverables, but also through sharing our learnings openly.
+#About Bloom
 
-In 2014, we saw a need to create a central, proactive movement to support public service and industry professionals championing and implementing Agile within the public sector. With leaders in federal, state and local governments, we founded AGL (Agile Government Leadership) and published the Agile Government Handbook. All of the work of AGL is published under public license, where it can be used by government workers, as well as other agile software vendors. This commitment to sharing increased our competencies and our reputation as leaders in agile government delivery.
+Many of us have experience working in the government, and we know firsthand the challenges of modernizing services. We've worked with legacy systems and bureaucratic teams that made it nearly impossible to put even a simple form online -- or to bring real modern change to the workplace. In that world, when we tried to hire outside help, we found people who were more interested in keeping us locked into their contracts than in solving our problems.
 
-In early 2016, CivicActions co-founder Aaron Pava was recruited to join the prestigious United States Digital Service team in Washington DC to assist the federal government in transforming procurement practices to enable federal agencies to more easily procure services from small businesses like CivicActions. He returned home (to CivicActions) in November 2016. In late 2016, CivicActions was one of a few vendors pre-qualified to bid on numerous upcoming agile/FOSS procurements for the states of California and Mississippi.
+At Bloom, we've made it our business to be different. We're here to help navigate complex paths to make lives easier, and visions more achievable.
+We’re inspired by the important work our partners (not clients) are doing, and our mission is to help them build cleaner solutions to digital challenges.
+
+#Our Core Values
+
+*latest iteration from our work as group on it
+
+##The best adventures start out as a spacewalk.
+We embrace uncertainty and ambiguity since this is how things worth doing start - one step at a time, into the unknown.
+
+##Technology is for everyone.
+We use technology to drive towards outcomes, not outputs, and strive for everyone to know how to build it, change it, and adapt it to withstand the future. We will prioritize the useful thing - even if it’s not tech - over something that integrates with your smartwatch.
+
+##Be humble. Show up ready to listen.
+We are a team that shows up with our whole heart and whole brain. We learn from one another, from our clients, and users.
+
+##Bring your shovel.
+We pride ourselves on being practical, pragmatic, scrappy, and determined to get the job done. We will do what it takes if it means it gets all of us to where we need to be.
+
+##Fiercely prioritize.
+In recognizing at the outset that trying to do everything will mean accomplishing nothing, we strive to balance our work against our ability to do it well. We need to deliver, and deliver with quality.
+
