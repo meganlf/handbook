@@ -1,8 +1,3 @@
-```javascript
-var s = "JavaScript syntax highlighting";
-links needs to updated with bloom documents;
-```
-
 # New Hire Orientation meetings
 
 ## Day 1
@@ -96,7 +91,7 @@ links needs to updated with bloom documents;
 ### Aligning Yourself with Bloom Works
 
 - [Read the Culture playbook](../../020-about-us/culture.md)
-- [Read the CivicActions values](https://civicactions.com/values/)
+- [Read the Bloom Works values](https://bloomworks.digital)
 - Create email signature
 - Update LinkedIn & social media accounts with Bloom Works as company
   - Update LinkedIn and ####update link [connect with coworkers](https://www.linkedin.com/company/54684)
