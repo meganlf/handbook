@@ -1,22 +1,22 @@
-# Bloom Works Resume and Portrait Instructions
+# Resume and portrait instructions
 
-Now that you're part of the team, we want to add you to our team page!
+Now that you're part of the team, let's get you added to our team page!
 
-## How to get your photo on the BloomWorks Team Page:
+## How to get your photo on the Bloom Works team page
 
-* Check out [our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already
-* If you have an image that is similar in layout and vibe, either attach it to a response email or send it to me via slack
-* If you need to take a new photo, try to get in some natural light, and position the camera further than selfie range if possible
+* Check out [our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already.
+* If you have an image that's similar in layout and vibe, send it to Adam via Slack or email.
+* If you need to take a new photo, try to get in some natural light, and position the camera further than selfie range if possible.
  
-If you have questions, reach out to Adam on Zoom or via [email](mailto:adam@bloomworks.digital)
+If you have questions, reach out to Adam on Slack or at [email](mailto:adam@bloomworks.digital).
  
-## Team Resume Instructions
+## How to format your Bloom resume
 
-We sometimes get requests for team resumes, especially for our RFX responses. We use a template for formatting team resumes so they are consistent.
+We often submit team members' resumes in our proposals, so we have a Bloom template for consistency.
 
-* [Check out the resume template on GDrive](https://docs.google.com/document/d/1IS46KYx0JhVQKmTGxg8M_wS6nJSkADg35j3DynwWw5Y/edit?usp=sharing)
-* Create a Copy and move it to the Bloom Full Team Drive > Team > Bios, photos, resumes folder
-* Once you've finished editing share it with Sofia Forelle, she'll schedule any review time with you if needed. 
+* [Check out the resume template on GDrive](https://docs.google.com/document/d/1IS46KYx0JhVQKmTGxg8M_wS6nJSkADg35j3DynwWw5Y/edit?usp=sharing).
+* Create a copy and move it to the [Bloom Full Team Drive > Team > Bios, photos, resumes folder](https://drive.google.com/drive/u/1/folders/1wqWI38uNF0l8XbqhPGGLFDN-m26A4s60).
+* Once you've finished editing, share it with Sofia. She'll follow up with you about any questions or clarifications. 
  
-Aaaaand that’s it. Just a few simple steps and you too can be a staple of the BloomWorks Team Page! Huzzah and Hooray!
+Aaaaand that’s it. Just a few simple steps and you too can be a staple of the Bloom Works Team Page! Huzzah and hooray!
 
